@@ -1,3 +1,4 @@
+![logo](https://github.com/akshar088/akshar088/blob/main/1722069522847.jpg)
 <h1 align="center">Hi 👋, I'm Akshar</h1>
 <h3 align="center">Aspiring Data Scientist from India</h3>
 
