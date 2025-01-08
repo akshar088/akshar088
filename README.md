@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **data science techniques,advanced data analysis and machine learning and Deep learning models**
 
-- 👨‍💻 All of my projects are available at [Here](https://github.com/akshar088?tab=repositories)
+- 👨‍💻 To see all of my projects [Click Here](https://github.com/akshar088?tab=repositories)
 
 - 💬 Ask me about **data analysis, python programming and API Development**
 
